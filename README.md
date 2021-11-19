@@ -13,4 +13,4 @@ Download the .apk file and install it on your phone. [Download here](https://git
 
 Descarga el archivo .apk e instálalo en tu teléfono. [Descarga aquí](https://github.com/Feligx/greenticity/raw/main/greentricity.apk)
 
-> Asegúrese de permitir que se instalen aplicaciones de terceros en su teléfono, [aquí] (https://www.xatakandroid.com/tutoriales/como-instalar-aplicaciones-en-apk-en-un-movil-android) encontrará una guía sobre cómo permitirlo.
+> Asegúrese de permitir que se instalen aplicaciones de terceros en su teléfono, [aquí](https://www.xatakandroid.com/tutoriales/como-instalar-aplicaciones-en-apk-en-un-movil-android) encontrará una guía sobre cómo permitirlo.
